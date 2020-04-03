@@ -77,6 +77,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Unit1MaxSubseqSum.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Unit1BinarySearch.h" />
+    <ClInclude Include="Unit1MaxSubseqSum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
